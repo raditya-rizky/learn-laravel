@@ -14,18 +14,18 @@
   
   <h1>Blog</h1>
 
-  <div>
+  <article>
     <h2>Artikel 1</h2>
     <p>
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat culpa porro consequatur expedita error quidem, nihil suscipit itaque ad non nisi perferendis eum ipsam amet, dolorum magni sunt quae excepturi, illo iusto obcaecati! Aliquam sed reiciendis vero quis, ad doloremque!
     </p>
-  </div>
+  </article>
 
-  <div>
+  <article>
     <h2>Artikel 2</h2>
     <p>
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat culpa porro consequatur expedita error quidem, nihil suscipit itaque ad non nisi perferendis eum ipsam amet, dolorum magni sunt quae excepturi, illo iusto obcaecati! Aliquam sed reiciendis vero quis, ad doloremque!
     </p>
-  </div>
+  </article>
 </body>
 </html>
