@@ -14,7 +14,13 @@
   
   <h1>Kontak Saya</h1>
 
-  <a href="http://instagram.com/radityariz_" target="_blank">Instagram</a>
-  <a href="http://github.com/raditya-rizky" target="_blank">GitHub</a>
+  <ul>
+    <li>
+      <a href="http://instagram.com/radityariz_" target="_blank">Instagram</a>
+    </li>
+    <li>
+      <a href="http://github.com/raditya-rizky" target="_blank">GitHub</a>
+    </li>
+  </ul>
 </body>
 </html>
